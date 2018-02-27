@@ -16,7 +16,7 @@ void main()
     printf("%d",a[i]);
   }
   
-  for(i=p-1;i>=temp;i--)
+  for(i=temp-1;i>=x;i--)
   {
     printf("%d",a[i]);
   }
