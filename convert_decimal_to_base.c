@@ -15,7 +15,7 @@ int main()
     
     for(i=i-1;i>=0;i--)
     {
-        curr=(curr*10)+a[i];
+        curr=a[i]+(curr*10)
     }
     
     printf("%d",curr);
